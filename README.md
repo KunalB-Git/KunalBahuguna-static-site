@@ -1,2 +1,2 @@
-# KunalBahuguna-static-site
-Kunal's Static Website
+# KunalBahuguna-Static-website
+WIP
